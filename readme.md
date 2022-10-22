@@ -23,7 +23,7 @@
 <img
     align="center"
     width="300"
-    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/sidebar/web.jpeg"
+    src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/feed/feed-mobile.gif"
 />
 
 
@@ -34,16 +34,28 @@
 
 <h4>Front end</h4>
 <ul>
-	<li>HTML</li>
-	<li>CSS</li>
+	<li>REACT</li>
+	
 </ul>
 <hr>
 <h2>Como executar o projeto</h2>
 <p>
     Faça Download dos arquivos ou clone o repositório
 </p>
+
+## Para instalar todas dependência, execute na raiz do projeto:
+```
+npm install
+```
+
+### Para rodar projeto, execute na raiz do projeto:
+```
+npm run dev
+```
+
 <h3>Front end web</h3>
 <p>Pré-requisitos: Um Navegador.</p>
+<p>NodeJS</p>
 
 
 
