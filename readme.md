@@ -27,7 +27,9 @@
 />
 
 
-
+<p>
+    Link do repositório desse projeto em <a href="https://github.com/maiconDeSouza/feed-react-typescript">TypeScript</a> 
+</p>
 
 
 <h3>Tecnologias utilizadas</h3>
